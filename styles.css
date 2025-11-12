@@ -103,7 +103,7 @@ h1 {
 }
 .card {
     flex: 1;
-    min-width: 300px;
+    min-width: 30%;
     background-color: #eeeeee;
     border: 1px solid black;
     border-radius: 6pt;
